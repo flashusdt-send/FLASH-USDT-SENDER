@@ -1,17 +1,11 @@
-# FLASH-USDT-SENDER
+# USDTOKEN site
 
-**FREE DEMO TO ANY WALLET**
+Open `index.html` in a browser, or upload `index.html`, `styles.css`, `script.js`, and `logo.png` to any static website host. No build step, libraries, remote fonts, or dependencies.
 
-FlashUSDTSender: Your Premier Platform for Secure, Fast, Multi-Network USDT Transactions
-🚀 Welcome to FlashUSDTSender: The Ultimate USDT Transfer Solution
-This repository provides comprehensive project files and documentation for the Flash USDT Sender application, designed to revolutionize your digital asset transfers. Experience lightning-fast, highly secure, and incredibly easy USDT transactions across an extensive range of blockchain networks. Whether you're a seasoned crypto trader, a growing business, or a crypto enthusiast, Flash USDT Sender offers a smarter, cleaner, and more efficient way to manage your Tether (USDT).
+The purchase and contact buttons open WhatsApp at https://wa.me/59899400784. The software price is $250 USD, payable in the ETH equivalent agreed in chat. The site does not collect payments or connect wallets.
 
-✨ Unparalleled Features for Seamless USDT Transfers
-Flash USDT Sender is packed with advanced functionalities engineered for optimal performance and user experience:
+The product illustration is HTML/CSS, not a live wallet or an exact screenshot. On mobile the sections stack automatically; reduced-motion preferences and keyboard focus indicators are supported.
 
-⚡ Instant Platform Access: Gain immediate and uninterrupted access to the Flash USDT Sender platform as soon as your payment is confirmed. No waiting, just instant action.
-🌐 Comprehensive Multi-Network Support: Effortlessly send USDT across popular blockchain networks including TRC20, ERC20, BEP20, SOLANA, and POLYGON. Our multi-network compatibility ensures your Tether transactions are never limited.
-💬 AI-Powered Agent Chat: Engage with our innovative AI-powered bot, "Agent Chat x Flash USDT Sender 🧑‍🚀", for simple, fast, and interactive assistance with your crypto transfers and platform queries.
-⏱️ Real-Time Transaction Status: Stay fully informed with instant, real-time updates on your USDT transfers. Know precisely when your Tether reaches its destination.
-🧑‍💻 Dedicated 24/7 Technical Support: Our expert technical support team is available around the clock to assist with any queries or challenges, ensuring a smooth USDT sending experience.
-🔄 Continuous Updates & Enhancements: We are committed to constantly improving the Flash USDT Sender platform with new features, security upgrades, and a visually appealing UI, including stunning Aqua highlights and Gold Edition themes.
+Publish only this `site` folder. The surrounding wallet application files are not website assets.
+
+Brand colors match app.py and build_exe.py. Free demo requests go to WhatsApp. Explorer links point to Blockscout, EthVM, and Etherscan; the preview uses placeholder balances, not live account data.
